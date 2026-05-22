@@ -28,7 +28,9 @@ Initial SSL/TLS testing showed weak configuration and an insecure connection.
 
 ## Screenshots
 ![Apache Active](images/apache-active.png)
+---
 ![TLS Test](images/tls-test.png)
+---
 ![Secure Connection](images/secure-connection.png)
 
 ## GRC Relevance
